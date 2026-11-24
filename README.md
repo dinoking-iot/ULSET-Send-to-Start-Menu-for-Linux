@@ -52,3 +52,6 @@ Chọn phím 1 (Cài đặt / Cập nhật) trong menu tương tác, hoặc ch�
 
 Need to remove it? Run ./send_to_startmenu.sh --uninstall to wipe all helpers and right-click menus while keeping your Wine setup intact.
 Muốn gỡ bỏ? Chạy ./send_to_startmenu.sh --uninstall để xóa sạch các tệp hỗ trợ và menu chuột phải mà vẫn giữ nguyên vẹn môi trường Wine của bạn.
+
+download  
+https://github.com/dinoking-iot/ULSET-Send-to-Start-Menu-for-Linux/releases/tag/Ulsetv16
